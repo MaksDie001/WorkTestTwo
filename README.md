@@ -6,7 +6,7 @@ Currently, two official plugins are available:
 
 для установки зависимостей 
 
-npm run buid .
+npm install
 
 и для запуска проекта 
 
