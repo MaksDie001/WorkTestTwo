@@ -1,0 +1,16 @@
+@import "src/root/styles/globals";
+.teamPage{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: Futura,Trebuchet MS,Arial,sans-serif;
+}
+.team{
+  background: #f9f9f9;
+  color: #424F5E;
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 44px;
+  padding-left: 18px;
+  padding-top: 18px;
+}

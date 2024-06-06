@@ -1,0 +1,68 @@
+.UserItemWrapper {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+  background-color: #fff;
+  margin-bottom: 8px;
+  border: 1px solid #eaeaea;
+  border-radius: 4px;
+}
+
+.UserDetails {
+  display: flex;
+  align-items: center;
+}
+
+.Avatar {
+  width: 64px;
+  height: 64px;
+  background-color: #ccc;
+  border-radius: 50%;
+  margin-right: 16px;
+}
+
+.UserInfo {
+  display: flex;
+  flex-direction: column;
+}
+.contactInfo{
+}
+.UserName {
+  font-size: 18px;
+  color: #424F5E;
+  display: inline;
+  font-weight: 600;
+
+}
+
+.UserEmail {
+  color: #9494A0;
+  display: inline;
+  margin-left: 11px;
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.UserPermissions {
+  color: #888;
+  margin-top: 8px;
+}
+.permissions {
+  display: inline;
+  margin-right: 5px;
+  font-size: 16px;
+  color: #9494A0;
+  border-radius: 10px;
+  padding: 5px 10px;
+  border: 1px solid #9494A0;
+}
+.ActionButtons {
+  display: flex;
+  align-items: center;
+}
+
+.Button {
+  padding: 4px 8px;
+  margin-left: 8px;
+  cursor: pointer;
+}

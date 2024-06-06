@@ -1,0 +1,27 @@
+.AddUserWrapper {
+  padding: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.Input {
+  padding: 8px;
+  margin-right: 16px;
+  flex-grow: 1;
+}
+.Input::placeholder {
+  color: #F9FAFB;
+}
+
+.Button {
+  padding: 10px 20px;
+  background-color: #32C076;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 450;
+  color: #F9FAFB;
+}
